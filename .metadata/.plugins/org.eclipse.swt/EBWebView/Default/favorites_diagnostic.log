@@ -27,3 +27,62 @@
 2026-10-08 00:02:38.173: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-08 00:02:38.173: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-10-08 01:59:46.821: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 00:16:53.362: [INFO] CurrentProfilePath: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 00:16:53.362: [INFO] Profiles total count: 1
+2026-10-09 00:16:53.362: [INFO] Profile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-08T00:16:54.206Z
+2026-10-09 00:16:53.362: [INFO] LastUsedProfileDir: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 00:16:53.362: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-08T00:16:54.206Z
+2026-10-09 00:16:53.362: [INFO] OnDoneLoading sync enabled: 0
+2026-10-09 00:16:53.362: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-09 00:16:53.362: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-09 00:16:53.362: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 01:16:37.477: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 00:51:02.075: [INFO] CurrentProfilePath: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 00:51:02.075: [INFO] Profiles total count: 1
+2026-10-15 00:51:02.075: [INFO] Profile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-09T00:16:56.903Z
+2026-10-15 00:51:02.075: [INFO] LastUsedProfileDir: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 00:51:02.075: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-09T00:16:56.903Z
+2026-10-15 00:51:02.075: [INFO] OnDoneLoading sync enabled: 0
+2026-10-15 00:51:02.075: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-15 00:51:02.075: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-15 00:51:02.075: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 01:43:22.528: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 01:44:52.253: [INFO] CurrentProfilePath: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 01:44:52.253: [INFO] Profiles total count: 1
+2026-10-15 01:44:52.253: [INFO] Profile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T01:17:51.752Z
+2026-10-15 01:44:52.253: [INFO] LastUsedProfileDir: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 01:44:52.253: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T01:17:51.752Z
+2026-10-15 01:44:52.253: [INFO] OnDoneLoading sync enabled: 0
+2026-10-15 01:44:52.253: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-15 01:44:52.253: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-15 01:44:52.253: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 02:02:28.972: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 02:07:38.578: [INFO] CurrentProfilePath: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 02:07:38.578: [INFO] Profiles total count: 1
+2026-10-15 02:07:38.578: [INFO] Profile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T02:02:28.722Z
+2026-10-15 02:07:38.578: [INFO] LastUsedProfileDir: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 02:07:38.578: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T02:02:28.722Z
+2026-10-15 02:07:38.578: [INFO] OnDoneLoading sync enabled: 0
+2026-10-15 02:07:38.578: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-15 02:07:38.578: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-15 02:07:38.578: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 02:25:00.999: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 02:29:00.166: [INFO] CurrentProfilePath: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 02:29:00.166: [INFO] Profiles total count: 1
+2026-10-15 02:29:00.167: [INFO] Profile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T02:13:20.544Z
+2026-10-15 02:29:00.167: [INFO] LastUsedProfileDir: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 02:29:00.167: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T02:13:20.544Z
+2026-10-15 02:29:00.167: [INFO] OnDoneLoading sync enabled: 0
+2026-10-15 02:29:00.167: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-15 02:29:00.167: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-15 02:29:00.167: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 06:05:40.406: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 01:04:58.694: [INFO] CurrentProfilePath: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 01:04:58.694: [INFO] Profiles total count: 1
+2026-10-21 01:04:58.695: [INFO] Profile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T02:29:21.909Z
+2026-10-21 01:04:58.695: [INFO] LastUsedProfileDir: C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 01:04:58.695: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\FABIAN\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T02:29:21.909Z
+2026-10-21 01:04:58.695: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 01:04:58.695: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 01:04:58.695: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 01:04:58.695: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
